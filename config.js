@@ -31,7 +31,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/7zfdcq.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "Mercedes",
+BOT_NAME: process.env.BOT_NAME || "Owenzo",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "Marisel",
 // type sticker pack name 
@@ -43,7 +43,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "254742173796",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Marisel",
+OWNER_NAME: process.env.OWNER_NAME || "Owenzo",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*Made By Marisel*",
 // add bot owner name    
@@ -65,7 +65,7 @@ AUTO_STICKER: process.env.AUTO_STICKER || "false",
 // make true for automatic stickers 
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
